@@ -7,3 +7,5 @@ The club's lingua franca in **Python**. It's useful in almost all fields of cybe
 All projects should have a README.ms file which provides a comprehensive explanation of the program, its goals, and the status of reaching those goals. There should also be easy to undertsand and use installation instructions. All projects must support Linux (kali) if applicable, and other platforms if possible
 
 All projects must have a DEVELOPMENT.md file which explains the engineering concepts and archetecture in detail, allowing for new programmers to more easily undertsand how the project works and how to contribute
+
+mpl-2 licens,e dev branch, python files and functions
